@@ -6,9 +6,8 @@
         "type": "node",
         "request": "launch",
         "name": "Electron-Test Index",
-        "runtimeExecutable": "/Users/chris/source/repos/Pico-Go/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron",
-        
-        "program": "/Users/chris/source/repos/Pico-Go/test-electron/index.js"
+        "runtimeExecutable": "/Users/tsuji/Documents/GitHub/Pico-Go/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron",
+        "program": "/Users/tsuji/Documents/GitHub/Pico-Go/test-electron/index.js"
     },
         {
             "name": "PowerShell Launch Current File w/Args Prompt",
